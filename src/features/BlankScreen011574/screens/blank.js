@@ -23,6 +23,7 @@ export class __Blank extends React.Component {
   render = () => (
     <View style={styles.View_1}>
       <Text style={styles.Text_3}>Sample text content</Text>
+      <Text style={styles.Text_5}>Sample text content</Text>
     </View>
   )
 }
